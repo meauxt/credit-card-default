@@ -1,3 +1,13 @@
+#### To Run this Project you need to have Python 2 or 3 installed and the following packages :
+- sklearn
+- seaborn
+- matplotlib
+
+
+
+
+
+
 # Machine Learning Engineer Nanodegree
 
 ## Capstone Proposal
